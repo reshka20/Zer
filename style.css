@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    background-color:pink;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    
+   
+    height: 100vh;
+}
+.zer{
+    width: 300px;
+    display: flex;
+    height: 150px;
+ 
+    justify-content: space-between;
+}
+#birzer{
+    width: 100px;
+    height: 100px;
+}
+#ikizer{
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.btnzer{
+    width: 75px;
+    height: 30px ;
+    border-radius: 25px;
+}
